@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color: rgb(31, 146, 173);
+    text-align: center;
+}
+
+.mainheader {
+    background-color: rgb(23, 100, 100);
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: rgba(11, 198, 23, 0.836);
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.mainsection {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 6px;
+}
