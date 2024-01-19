@@ -3,7 +3,7 @@ async function getResponse() {
         "https://jsonplaceholder.typicode.com/users/5/todos"
     );
     let content = await response.json();
-    content = content.splice(0, 10);
+    content = content.splice(0, 20);
 
     let list = document.querySelector(".post");
 
