@@ -39,3 +39,8 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
+
+.imagesection img {
+    width: 370px;
+    height: 350px;
+}
